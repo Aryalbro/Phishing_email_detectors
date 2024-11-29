@@ -1,1 +1,2 @@
-# Phishing_email_detectors
+# Phishing_email_detector
+Csc_467/667
